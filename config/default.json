@@ -1,3 +1,4 @@
 {
-"mongoURI": "mongodb+srv://DiegoR:Darkjoker1@cluster0.8vpzs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+"mongoURI": "mongodb+srv://DiegoR:Darkjoker1@cluster0.8vpzs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" ,
+"jwtSecret" : "maytheforcebewithyou"
 }
